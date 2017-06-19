@@ -1,2 +1,3 @@
 def solution(a_list):
-    """Enter Code Here"""
+    lis = sorted(a_list)
+    return lis[1]
