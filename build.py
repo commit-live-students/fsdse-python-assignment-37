@@ -1,3 +1,2 @@
 def solution(a_list):
-    second=sorted(a_list)
-    return second[1]
+    return sorted(a_list)[1]
