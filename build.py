@@ -1,2 +1,2 @@
 def solution(a_list):
-    """Enter Code Here"""
+    return sorted(set(a_list))[1]
